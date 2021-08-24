@@ -1,0 +1,48 @@
+Afficher la liste des villages où il n'y a pas de femmes répertoriées (Deux versions sont
+attendues : lʼune avec une requête imbriquée, lʼautre avec une requête corrélée).
+
+ SELECT * FROM village WHERE vilno NOT IN (SELECT vilno FROM gaulois WHERE sexe='F');
+
+
+Liste des gaulois qui n'ont pas de druide dans leur village (version corrélée).
+
+
+
+ SELECT * FROM gaulois g WHERE NOT EXISTS (SELECT * FROM gaulois WHERE metier='druide' AND vilno = g.vilno);
+
+
+Pour chaque village, afficher le nom du gaulois, ainsi que le nombre de casques
+collectés, pour lʼhabitant ayant rapporté le plus de casques.
+
+ SELECT g.vilno, g.gauno, sum(t.nbcasque)
+ FROM gaulois g, trophee t
+ WHERE g.gauno=t.gauno
+ GROUP BY g.vilno, g.gauno
+ HAVING sum(t.nbcasque) = (	SELECT max(sum(t1.nbcasque))
+							FROM gaulois g1, trophee t1
+							WHERE g1.gauno = t1.gauno
+							AND g1.vilno = g.vilno
+							GROUP BY g1.vilno, g1.gauno);
+
+
+Afficher les noms et métiers des gaulois qui sont les seuls à exercer leur métier dans
+leur village.
+	
+ SELECT g.nom, g.metier
+ FROM gaulois g
+ WHERE (	SELECT count(*) 
+ 			FROM gaulois g1 
+ 			WHERE g.metier = g1.metier
+ 			AND g.vilno = g1.vilno
+ 			AND g.gauno != g1.gauno) = 0;
+
+
+Villages dont aucun habitant n'a rapporté de casques.
+
+ SELECT *
+ FROM village v
+ WHERE NOT EXISTS (	SELECT *
+ 					FROM gaulois g
+ 					WHERE v.vilno = g.vilno
+ 					AND g.gauno IN (	SELECT gauno
+ 										FROM trophee));

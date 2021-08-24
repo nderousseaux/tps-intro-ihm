@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Base iut" uuid="fe442903-b25c-4c9f-90d6-1bcb62bded24">
+      <database-info product="Oracle" version="Oracle Database 12c Enterprise Edition Release 12.1.0.1.0 - 64bit Production&#10;With the Partitioning, OLAP, Advanced Analytics and Real Application Testing options" jdbc-version="4.2" driver-name="Oracle JDBC driver" driver-version="12.2.0.1.0" dbms="ORACLE" exact-version="12.1.0.1.0" exact-driver-version="12.2">
+        <extra-name-characters>$#</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>nderousseaux</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema">
+            <name qname="@" />
+            <name qname="PUBLIC" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+      <ssh-properties>
+        <enabled>true</enabled>
+        <proxy-host>localhost</proxy-host>
+        <proxy-port>6000</proxy-port>
+        <secret-storage>master_key</secret-storage>
+        <user>nderousseaux</user>
+        <use-password>true</use-password>
+        <auth-type>PASSWORD</auth-type>
+      </ssh-properties>
+    </data-source>
+    <data-source name="Base infomaniak" uuid="8772ae19-2e53-43a8-849c-b0d7933f0ab6">
+      <database-info product="MySQL" version="5.7.26-log" jdbc-version="4.2" driver-name="MySQL Connector/J" driver-version="mysql-connector-java-8.0.15 (Revision: 79a4336f140499bd22dd07f02b708e163844e3d5)" dbms="MYSQL" exact-version="5.7.26" exact-driver-version="8.0">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>pmlp_derousseaux</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema" qname="@" />
+        </introspection-scope>
+      </schema-mapping>
+      <ssh-properties>
+        <enabled>true</enabled>
+        <proxy-host>pmlp.ftp.infomaniak.com</proxy-host>
+        <proxy-port>22</proxy-port>
+        <secret-storage>master_key</secret-storage>
+        <user>pmlp_nderousseaux</user>
+        <use-password>true</use-password>
+        <auth-type>PASSWORD</auth-type>
+      </ssh-properties>
+    </data-source>
+  </component>
+</project>

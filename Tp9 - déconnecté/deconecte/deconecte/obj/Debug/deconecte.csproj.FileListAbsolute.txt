@@ -1,0 +1,11 @@
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp9 - déconnecté\deconecte\deconecte\bin\Debug\Voyages2010.mdb
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp9 - déconnecté\deconecte\deconecte\bin\Debug\deconecte.exe.config
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp9 - déconnecté\deconecte\deconecte\bin\Debug\deconecte.exe
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp9 - déconnecté\deconecte\deconecte\bin\Debug\deconecte.pdb
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp9 - déconnecté\deconecte\deconecte\obj\Debug\deconecte.csprojAssemblyReference.cache
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp9 - déconnecté\deconecte\deconecte\obj\Debug\deconecte.Form1.resources
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp9 - déconnecté\deconecte\deconecte\obj\Debug\deconecte.Properties.Resources.resources
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp9 - déconnecté\deconecte\deconecte\obj\Debug\deconecte.csproj.GenerateResource.cache
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp9 - déconnecté\deconecte\deconecte\obj\Debug\deconecte.csproj.CoreCompileInputs.cache
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp9 - déconnecté\deconecte\deconecte\obj\Debug\deconecte.exe
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp9 - déconnecté\deconecte\deconecte\obj\Debug\deconecte.pdb

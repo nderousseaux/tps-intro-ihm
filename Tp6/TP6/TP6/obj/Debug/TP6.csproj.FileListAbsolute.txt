@@ -1,0 +1,10 @@
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp6\TP6\TP6\bin\Debug\TP6.exe.config
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp6\TP6\TP6\bin\Debug\TP6.exe
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp6\TP6\TP6\bin\Debug\TP6.pdb
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp6\TP6\TP6\obj\Debug\TP6.csprojAssemblyReference.cache
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp6\TP6\TP6\obj\Debug\TP6.Form1.resources
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp6\TP6\TP6\obj\Debug\TP6.Properties.Resources.resources
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp6\TP6\TP6\obj\Debug\TP6.csproj.GenerateResource.cache
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp6\TP6\TP6\obj\Debug\TP6.csproj.CoreCompileInputs.cache
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp6\TP6\TP6\obj\Debug\TP6.exe
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp6\TP6\TP6\obj\Debug\TP6.pdb

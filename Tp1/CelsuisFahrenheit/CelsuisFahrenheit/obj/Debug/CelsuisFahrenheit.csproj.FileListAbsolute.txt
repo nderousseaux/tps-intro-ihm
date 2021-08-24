@@ -1,0 +1,40 @@
+X:\Documents\CelsuisFahrenheit\CelsuisFahrenheit\bin\Debug\CelsuisFahrenheit.exe.config
+X:\Documents\CelsuisFahrenheit\CelsuisFahrenheit\bin\Debug\CelsuisFahrenheit.exe
+X:\Documents\CelsuisFahrenheit\CelsuisFahrenheit\bin\Debug\CelsuisFahrenheit.pdb
+X:\Documents\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.csprojAssemblyReference.cache
+X:\Documents\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.frmCelsiusFahrenheit.resources
+X:\Documents\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.Properties.Resources.resources
+X:\Documents\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.csproj.GenerateResource.cache
+X:\Documents\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.csproj.CoreCompileInputs.cache
+X:\Documents\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.exe
+X:\Documents\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.pdb
+D:\#Etudes\#Superieur\#Cours\#Cours_dut\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\bin\Debug\CelsuisFahrenheit.exe.config
+D:\#Etudes\#Superieur\#Cours\#Cours_dut\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\bin\Debug\CelsuisFahrenheit.exe
+D:\#Etudes\#Superieur\#Cours\#Cours_dut\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\bin\Debug\CelsuisFahrenheit.pdb
+D:\#Etudes\#Superieur\#Cours\#Cours_dut\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.csprojAssemblyReference.cache
+D:\#Etudes\#Superieur\#Cours\#Cours_dut\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.frmCelsiusFahrenheit.resources
+D:\#Etudes\#Superieur\#Cours\#Cours_dut\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.Properties.Resources.resources
+D:\#Etudes\#Superieur\#Cours\#Cours_dut\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.csproj.GenerateResource.cache
+D:\#Etudes\#Superieur\#Cours\#Cours_dut\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.csproj.CoreCompileInputs.cache
+D:\#Etudes\#Superieur\#Cours\#Cours_dut\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.exe
+D:\#Etudes\#Superieur\#Cours\#Cours_dut\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.pdb
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\bin\Debug\CelsuisFahrenheit.exe.config
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\bin\Debug\CelsuisFahrenheit.exe
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\bin\Debug\CelsuisFahrenheit.pdb
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.csprojAssemblyReference.cache
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.frmCelsiusFahrenheit.resources
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.Properties.Resources.resources
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.csproj.GenerateResource.cache
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.csproj.CoreCompileInputs.cache
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.exe
+E:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.pdb
+F:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\bin\Debug\CelsuisFahrenheit.exe.config
+F:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\bin\Debug\CelsuisFahrenheit.exe
+F:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\bin\Debug\CelsuisFahrenheit.pdb
+F:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.csprojAssemblyReference.cache
+F:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.frmCelsiusFahrenheit.resources
+F:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.Properties.Resources.resources
+F:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.csproj.GenerateResource.cache
+F:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.csproj.CoreCompileInputs.cache
+F:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.exe
+F:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp1\CelsuisFahrenheit\CelsuisFahrenheit\obj\Debug\CelsuisFahrenheit.pdb

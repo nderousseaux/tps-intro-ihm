@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Base iut" uuid="fe442903-b25c-4c9f-90d6-1bcb62bded24">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@grive.iutrs.unistra.fr:1521:oragrive</jdbc-url>
+      <driver-properties>
+        <property name="v$session.program" value="DataGrip" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="Base infomaniak" uuid="8772ae19-2e53-43a8-849c-b0d7933f0ab6">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://pmlp.myd.infomaniak.com:3306/pmlp_main</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="Europe/Zurich" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>

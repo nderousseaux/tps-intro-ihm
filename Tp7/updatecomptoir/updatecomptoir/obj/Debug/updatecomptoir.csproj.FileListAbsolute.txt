@@ -1,0 +1,10 @@
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp7\updatecomptoir\updatecomptoir\bin\Debug\updatecomptoir.exe.config
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp7\updatecomptoir\updatecomptoir\bin\Debug\updatecomptoir.exe
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp7\updatecomptoir\updatecomptoir\bin\Debug\updatecomptoir.pdb
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp7\updatecomptoir\updatecomptoir\obj\Debug\updatecomptoir.csprojAssemblyReference.cache
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp7\updatecomptoir\updatecomptoir\obj\Debug\updatecomptoir.frmCommande.resources
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp7\updatecomptoir\updatecomptoir\obj\Debug\updatecomptoir.Properties.Resources.resources
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp7\updatecomptoir\updatecomptoir\obj\Debug\updatecomptoir.csproj.GenerateResource.cache
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp7\updatecomptoir\updatecomptoir\obj\Debug\updatecomptoir.csproj.CoreCompileInputs.cache
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp7\updatecomptoir\updatecomptoir\obj\Debug\updatecomptoir.exe
+D:\Etudes\Superieur\A-Interfaces\A21 - Introduction aux interfaces homme-machine\TDs-TPs\Tp7\updatecomptoir\updatecomptoir\obj\Debug\updatecomptoir.pdb
